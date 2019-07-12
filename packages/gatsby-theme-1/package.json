@@ -1,0 +1,15 @@
+{
+  "name": "gatsby-theme-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.13.14",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "gatsby-plugin-create-client-paths": "^2.1.2",
+    "gatsby-plugin-page-creator": "^2.1.3"
+  }
+}
